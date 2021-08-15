@@ -1,0 +1,13 @@
+.header {
+  &-btn {
+    border: none;
+
+    &:focus {
+      box-shadow: none;
+    }
+  }
+
+  &-link {
+    text-transform: capitalize;
+  }
+}

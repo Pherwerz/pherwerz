@@ -1,0 +1,36 @@
+{
+  "short_name": "Pherwerz",
+  "name": "Pherwerz",
+  "description": "Adebayo Fawaz Ajibola's portfolio",
+  "icons": [
+    {
+      "src": "/sc32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/sc64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/sc144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/sc192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/sc512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
