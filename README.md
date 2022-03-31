@@ -20,10 +20,25 @@ organization.
 
 <table>
   <tr>
-    <td rowspan="3">
+    <td rowspan="5">
       <img src="./projects/metacare.png" alt="metacare" />
     </td>
     <td><a href="https://metacare-olive.vercel.app/">project link</a></td>
+  </tr>
+  <tr>
+    <td>react</td>
+  </tr>
+  <tr>
+    <td>javascript</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="5">
+      <img src="./projects/halal.png" alt="halal" />
+    </td>
+    <td><a href="https://halal.vercel.app/">project link</a></td>
   </tr>
   <tr>
     <td>react</td>
