@@ -4,10 +4,16 @@
 
 ## PROJECTS
 
-| ![metacare](projects/metacare.png) |                                         |
-| ---------------------------------- | --------------------------------------- |
-| Name                               | metacare                                |
-| link                               | [project link](https://www.example.com) |
-|                                    |                                         |
+| ![metacare](projects/metacare.png) |                                                   |
+| ---------------------------------- | ------------------------------------------------- |
+| Name                               | metacare                                          |
+| link                               | [project link](https://metacare-olive.vercel.app) |
+| type                               | react                                             |
+
+| ![metacare](projects/metacare.png) |                                                   |
+| ---------------------------------- | ------------------------------------------------- |
+| Name                               | metacare                                          |
+| link                               | [project link](https://metacare-olive.vercel.app) |
+| type                               | react                                             |
 
 ## CONTACT
