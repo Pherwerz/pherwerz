@@ -35,9 +35,10 @@ organization.
 
 ## CONTACT
 
-|                 |                    |
-| --------------- | ------------------ |
-| email           | lordrisk@gmail.com |
-| phone number    | 08038599828        |
-| whatsApp number | 08038599828        |
-| twitter         | @pherwerzz         |
+|                 |                                                                  |
+| --------------- | ---------------------------------------------------------------- |
+| email           | lordrisk@gmail.com                                               |
+| phone number    | +2348038599828                                                   |
+| whatsApp number | +2348038599828                                                   |
+| twitter         | [twitter](https://twitter.com/Pherwerzz)                         |
+| linkedin        | [linkedin](https://www.linkedin.com/in/fawaz-adebayo-5b83471b1/) |
