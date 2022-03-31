@@ -4,9 +4,9 @@
 
 ## PROJECTS
 
-| projct image                       |                                         |
+| ![metacare](projects/metacare.png) |                                         |
 | ---------------------------------- | --------------------------------------- |
-| ![metacare](projects/metacare.png) |
+| Name                               | metacare                                |
 | link                               | [project link](https://www.example.com) |
 |                                    |                                         |
 
