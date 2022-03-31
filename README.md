@@ -4,10 +4,10 @@
 
 ## PROJECTS
 
-| projct image                       | decription                              |
+| projct image                       |                                         |
 | ---------------------------------- | --------------------------------------- |
-| ![metacare](projects/metacare.png) | [project link](https://www.example.com) |
-| ^                                  | project                                 |
-| ^                                  | project                                 |
+| ![metacare](projects/metacare.png) |
+| link                               | [project link](https://www.example.com) |
+|                                    |                                         |
 
 ## CONTACT
