@@ -63,7 +63,7 @@ organization.
 <table>
   <tr>
     <td rowspan="3">
-      <img src="./projects/yahfrica.png" alt="yahfrica" />
+      <img src="./projects/yahfrica.png" target="_blank" alt="yahfrica" />
     </td>
     <td><a href="https://yahfrica.com/">project link</a></td>
   </tr>
