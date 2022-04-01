@@ -31,6 +31,12 @@ organization.
   <tr>
     <td>javascript</td>
   </tr>
+  <tr>
+    <td>javascript</td>
+  </tr>
+  <tr>
+    <td>javascript</td>
+  </tr>
 </table>
 
 <table>
@@ -44,7 +50,33 @@ organization.
     <td>react</td>
   </tr>
   <tr>
+    <td>react</td>
+  </tr>
+  <tr>
+    <td>react</td>
+  </tr>
+  <tr>
     <td>javascript</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="3">
+      <img src="./projects/yahfrica.png" alt="yahfrica" />
+    </td>
+    <td><a href="https://yahfrica.com/">project link</a></td>
+  </tr>
+  <tr>
+    <td>html,css,javascript</td>
+  </tr>
+  <tr>
+    <td>static website</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+    YAHFRICA is an organization created to unite the entire continent of African churches, ministries and Christians and believers at large to FAST AND PRAY TOGETHER for the covering, healing and benefit of the entire continent and its peoples globally.
+    </td>
   </tr>
 </table>
 
