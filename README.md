@@ -37,6 +37,29 @@ organization.
 <table>
   <tr>
     <td rowspan="3">
+      <img src="./projects/nabntv.png" alt="nabntv" />
+    </td>
+    <td><a href="https://nabntv.vercel.app/">project link</a></td>
+  </tr>
+  <tr>
+    <td>react, Nextjs</td>
+  </tr>
+  <tr>
+    <td>dynamic website with firebase backend</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      NABNtv Special has a mandate to chart information pathway towards the
+      realization of our common enviable future with a strong desire to hand
+      over posterity worth celebrating for our emerging future generational
+      leaders.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="3">
       <img src="./projects/metacare.png" alt="metacare" />
     </td>
     <td><a href="https://metacare-olive.vercel.app/">project link</a></td>
