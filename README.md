@@ -37,6 +37,27 @@ organization.
 <table>
   <tr>
     <td rowspan="3">
+      <img src="./projects/payo.png" alt="payo" />
+    </td>
+    <td><a href="https://payo.vercel.app/">project link</a></td>
+  </tr>
+  <tr>
+    <td>react, nexjs, mongodb</td>
+  </tr>
+  <tr>
+    <td>server side rendered website + PWA</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      a simulation of a fintech app with all features login with "pherwerz" as
+      username and "pass1234" as password
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="3">
       <img src="./projects/nabntv.png" alt="nabntv" />
     </td>
     <td><a href="https://nabntv.vercel.app/">project link</a></td>
