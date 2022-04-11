@@ -120,7 +120,7 @@ organization.
   <tr>
     <td colspan="2">
       Metacare Admin dashboard, this is aimed at helping employees interract
-      with customers and the system in an easy way
+      with customers and the system in an easy way. This app makes use of libaryies like chartjs and the likes.
     </td>
   </tr>
 </table>
