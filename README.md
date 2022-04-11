@@ -44,12 +44,13 @@ organization.
   <tr>
     <td>react</td>
   </tr>
- <tr>
+  <tr>
     <td>static website</td>
   </tr>
   <tr>
     <td colspan="2">
-   Metacare Admin dashboard
+      Metacare Admin dashboard, this is aimed at helping employees interract
+      with customers and the system in an easy way
     </td>
   </tr>
 </table>
@@ -61,7 +62,7 @@ organization.
     </td>
     <td><a href="https://halal.vercel.app/">project link</a></td>
   </tr>
-   <tr>
+  <tr>
     <td>vuejs</td>
   </tr>
   <tr>
@@ -69,7 +70,14 @@ organization.
   </tr>
   <tr>
     <td colspan="2">
-    Halal is an Islamic banking and financial technology app that allows you to gain access to save money, create ajo between with family and friends and also allows you seek for zero interest loans. Halal Is an alternative to high interest loan, if you pick an early slot number in an Ajo group, you get the first fund collection by paying a one-time fee while people who collect late in an ajo group get an additional bonus and do not have to pay any fee. You can also make your utility bill payments, airtime and data purchase on the app.
+      Halal is an Islamic banking and financial technology app that allows you
+      to gain access to save money, create ajo between with family and friends
+      and also allows you seek for zero interest loans. Halal Is an alternative
+      to high interest loan, if you pick an early slot number in an Ajo group,
+      you get the first fund collection by paying a one-time fee while people
+      who collect late in an ajo group get an additional bonus and do not have
+      to pay any fee. You can also make your utility bill payments, airtime and
+      data purchase on the app.
     </td>
   </tr>
 </table>
@@ -89,7 +97,10 @@ organization.
   </tr>
   <tr>
     <td colspan="2">
-    YAHFRICA is an organization created to unite the entire continent of African churches, ministries and Christians and believers at large to FAST AND PRAY TOGETHER for the covering, healing and benefit of the entire continent and its peoples globally.
+      YAHFRICA is an organization created to unite the entire continent of
+      African churches, ministries and Christians and believers at large to FAST
+      AND PRAY TOGETHER for the covering, healing and benefit of the entire
+      continent and its peoples globally.
     </td>
   </tr>
 </table>
