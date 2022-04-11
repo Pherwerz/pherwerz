@@ -37,12 +37,38 @@ organization.
 <table>
   <tr>
     <td rowspan="3">
+      <img src="./projects/drugstore.png" alt="drugstore" />
+    </td>
+    <td><a href="https://dev.drugstore.ng/">project link</a></td>
+  </tr>
+  <tr>
+    <td>nuxjs</td>
+  </tr>
+  <tr>
+    <td>server side rendered website</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Drugstore is Nigeria’s online pharmacy where you can buy drugs, medical
+      and hospital equipment from registered pharmacies in Nigeria with the
+      option of picking it up at the pharmacy or door delivery.<br />
+      Drugstore Nigeria enables easier and faster access to drugs. Pharmacies
+      can reach more customers outside its locality, and reduce drug wastage due
+      to expiry dates or low patronage. Patients can buy drugs confidently
+      knowing that the pharmacy is registered and trustworthy.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="3">
       <img src="./projects/payo.png" alt="payo" />
     </td>
     <td><a href="https://payo.vercel.app/">project link</a></td>
   </tr>
   <tr>
-    <td>react, nexjs, mongodb</td>
+    <td>Nexjs, Mongodb</td>
   </tr>
   <tr>
     <td>server side rendered website + PWA</td>
@@ -63,7 +89,7 @@ organization.
     <td><a href="https://nabntv.vercel.app/">project link</a></td>
   </tr>
   <tr>
-    <td>react, Nextjs</td>
+    <td>Nextjs</td>
   </tr>
   <tr>
     <td>dynamic website with firebase backend</td>
@@ -86,7 +112,7 @@ organization.
     <td><a href="https://metacare-olive.vercel.app/">project link</a></td>
   </tr>
   <tr>
-    <td>react</td>
+    <td>React</td>
   </tr>
   <tr>
     <td>static website</td>
