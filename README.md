@@ -1,5 +1,7 @@
 # ADEBAYO FAWAZ AJIBOLA
 
+## Fullstack web developer
+
 ## ABOUT
 
 I am a young and vibrant Nigerian with a
@@ -16,11 +18,25 @@ with a ready mind to learn, adapt and make
 accessible my skills for the development of the
 organization.
 
+## SKILLS
+
+- Html
+- Css, Sass/scss
+- JavaScript, Typescript
+- Dart
+- Golang
+- Nodejs, Express, Nestjs
+- Git and github
+- React, Nextjs
+- Vue, Nuxtjs
+- Mongodb, Postgresql, Mysql
+- PWA
+
 ## PROJECTS
 
 <table>
   <tr>
-    <td rowspan="5">
+    <td rowspan="3">
       <img src="./projects/metacare.png" alt="metacare" />
     </td>
     <td><a href="https://metacare-olive.vercel.app/">project link</a></td>
@@ -28,35 +44,33 @@ organization.
   <tr>
     <td>react</td>
   </tr>
-  <tr>
-    <td>javascript</td>
+ <tr>
+    <td>static website</td>
   </tr>
   <tr>
-    <td>javascript</td>
-  </tr>
-  <tr>
-    <td>javascript</td>
+    <td colspan="2">
+   Metacare Admin dashboard
+    </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td rowspan="5">
+    <td rowspan="3">
       <img src="./projects/halal.png" alt="halal" />
     </td>
     <td><a href="https://halal.vercel.app/">project link</a></td>
   </tr>
-  <tr>
-    <td>react</td>
+   <tr>
+    <td>vuejs</td>
   </tr>
   <tr>
-    <td>react</td>
+    <td>static website</td>
   </tr>
   <tr>
-    <td>react</td>
-  </tr>
-  <tr>
-    <td>javascript</td>
+    <td colspan="2">
+    Halal is an Islamic banking and financial technology app that allows you to gain access to save money, create ajo between with family and friends and also allows you seek for zero interest loans. Halal Is an alternative to high interest loan, if you pick an early slot number in an Ajo group, you get the first fund collection by paying a one-time fee while people who collect late in an ajo group get an additional bonus and do not have to pay any fee. You can also make your utility bill payments, airtime and data purchase on the app.
+    </td>
   </tr>
 </table>
 
@@ -68,7 +82,7 @@ organization.
     <td><a href="https://yahfrica.com/" target="_blank">project link</a></td>
   </tr>
   <tr>
-    <td>html,css,javascript</td>
+    <td>html,css,javascript, nodejs</td>
   </tr>
   <tr>
     <td>static website</td>
