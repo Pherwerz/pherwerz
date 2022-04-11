@@ -76,7 +76,7 @@ organization.
   <tr>
     <td colspan="2">
       a simulation of a fintech app with all features login with "pherwerz" as
-      username and "pass1234" as password
+      username and "pass1234" as password. This app also has a push notification functions that allows users to get notified when a new transaction is created
     </td>
   </tr>
 </table>
