@@ -4,19 +4,19 @@
 
 ## ABOUT
 
-I am a young and vibrant Nigerian with a
-vision to make the life of others better through
-my contributions in the world of technology.
+Hi there,
 
-I am seeking for an opportunity in this
-technologically-equipped
-environment, where i believe i would be able to
-utilize my solid academic background and
-experience alongside an exceptionally strong
-design, creative and communication instincts,
-with a ready mind to learn, adapt and make
-accessible my skills for the development of the
-organization.
+I am Fawaz, a full-stack web developer with a passion for solving real-world problems by building business solutions using technologies like JavaScript, HTML, CSS and React. Although I am currently studying Information and Communication Science at the University of Ilorin, Nigeria, I have been working as a professional in this field since 2019.
+
+In my 4 years of experience in web development and I have built knowledge in technical documentation, working in Agile environments, core system development, algorithms and data structures. I have a Diploma in Web Design from Global Techs and other certifications in Web development, JavaScript and Nodejs. I enjoy building user experience and interfaces, making sure that these interfaces are properly implemented with frontend languages and excellent backend servers in real-time. I am highly skilled in the following programming languages, technologies and tools:
+
+• Programming languages: JavaScript HTML, CSS, Typescript, Dart, Golang
+• Technologies: MongoDB, Express, REST API, Node.js,Next.js, React.js, Postgresql, Nodejs, MySQL, Nestjs,
+• Tools: Microsoft Office, Git and GitHub
+
+My other areas of interest are mobile app development and Web 3. I am an excellent team player, communicator, and problem solver with a desire to always exceed expected results. I am willing, open, and ready to accept opportunities tailored to providing an ever progressive career experience and global exposure with both challenging and rewarding roles. When I am not interacting with codes, I enjoy playing games and listening to good music.
+
+Do I sound like a good fit for your team?, Contact me here; lordrisk101@gmail.com adebayo.fawaz@yahoo.com
 
 ## SKILLS
 
