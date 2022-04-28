@@ -63,6 +63,26 @@ Do I sound like a good fit for your team?, Contact me here; lordrisk101@gmail.co
 <table>
   <tr>
     <td rowspan="3">
+      <img src="./projects/techreachmakerspace.png" alt="payo" />
+    </td>
+    <td><a href="https://techreach-makerspace.vercel.app/">project link</a></td>
+  </tr>
+  <tr>
+    <td>Nexjs</td>
+  </tr>
+  <tr>
+    <td>staic SPA website</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+     Our team has experienced the world in a variety of ways. We've helped hundreds of businesses succeed online by delivering solutions to difficulties in both rural and urban areas throughout the world. Learn more about what we can offer you by booking a consultation with us today.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="3">
       <img src="./projects/payo.png" alt="payo" />
     </td>
     <td><a href="https://payo.vercel.app/">project link</a></td>
