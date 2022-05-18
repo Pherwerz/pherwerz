@@ -10,27 +10,37 @@ I am Fawaz, a full-stack web developer with a passion for solving real-world pro
 
 In my 4 years of experience in web development and I have built knowledge in technical documentation, working in Agile environments, core system development, algorithms and data structures. I have a Diploma in Web Design from Global Techs and other certifications in Web development, JavaScript and Nodejs. I enjoy building user experience and interfaces, making sure that these interfaces are properly implemented with frontend languages and excellent backend servers in real-time. I am highly skilled in the following programming languages, technologies and tools:
 
-• Programming languages: JavaScript HTML, CSS, Typescript, Dart, Golang
-• Technologies: MongoDB, Express, REST API, Node.js,Next.js, React.js, Postgresql, Nodejs, MySQL, Nestjs,
-• Tools: Microsoft Office, Git and GitHub
+- Programming languages
+
+  - JavaScript
+  - Typescript
+  - Dart
+  - Golang
+
+- databases
+
+  - Postgresql
+  - MySQL
+  - MongoDB
+
+- Technologies
+
+  - Node.js
+  - Express
+  - REST API
+  - Next.js,
+  - React.js
+  - Nestjs
+  - Sass/scss
+  - PWA
+  - Vue, Nuxtjs
+
+- Tools
+  - Git and GitHub
 
 My other areas of interest are mobile app development and Web 3. I am an excellent team player, communicator, and problem solver with a desire to always exceed expected results. I am willing, open, and ready to accept opportunities tailored to providing an ever progressive career experience and global exposure with both challenging and rewarding roles. When I am not interacting with codes, I enjoy playing games and listening to good music.
 
-Do I sound like a good fit for your team?, Contact me here; lordrisk101@gmail.com adebayo.fawaz@yahoo.com
-
-## SKILLS
-
-- Html
-- Css, Sass/scss
-- JavaScript, Typescript
-- Dart
-- Golang
-- Nodejs, Express, Nestjs
-- Git and github
-- React, Nextjs
-- Vue, Nuxtjs
-- Mongodb, Postgresql, Mysql
-- PWA
+Do I sound like a good fit for your team?, Contact me here; fawaz.adebayo.ajibola@gmail.com adebayo.fawaz@yahoo.com
 
 ## PROJECTS
 
@@ -199,6 +209,7 @@ Do I sound like a good fit for your team?, Contact me here; lordrisk101@gmail.co
 
 |                 |                                                                  |
 | --------------- | ---------------------------------------------------------------- |
+| email           | fawaz.adebayo.ajibola@gmail.com                                  |
 | email           | lordrisk@gmail.com                                               |
 | phone number    | +2348038599828                                                   |
 | whatsApp number | [whatsapp](https://wa.me/2348038599828)                          |
