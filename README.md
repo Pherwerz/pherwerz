@@ -25,15 +25,11 @@ In my 4 years of experience in web development and I have built knowledge in tec
 
 - Technologies
 
-  - Node.js
-  - Express
-  - REST API
-  - Next.js,
-  - React.js
-  - Nestjs
+  - Node.js - Express - REST API - Nestjs
+  - React.js - Next.js
   - Sass/scss
   - PWA
-  - Vue, Nuxtjs
+  - Vue - Nuxtjs
 
 - Tools
   - Git and GitHub
