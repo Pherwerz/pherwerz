@@ -6,7 +6,7 @@
 
 Hi there,
 
-I am Fawaz, a full-stack web developer with a passion for solving real-world problems by building business solutions using technologies like JavaScript, HTML, CSS and React. Although I am currently studying Information and Communication Science at the University of Ilorin, Nigeria, I have been working as a professional in this field since 2019.
+I am Fawaz, a full-stack web developer with a passion for solving real-world problems by building business solutions using technologies like JavaScript, HTML, CSS and React. Although I am currently studying Information and Communication Science at the University of Ilorin, Nigeria, I have been working as a professional in this field since 2017.
 
 In my 4 years of experience in web development and I have built knowledge in technical documentation, working in Agile environments, core system development, algorithms and data structures. I have a Diploma in Web Design from Global Techs and other certifications in Web development, JavaScript and Nodejs. I enjoy building user experience and interfaces, making sure that these interfaces are properly implemented with frontend languages and excellent backend servers in real-time. I am highly skilled in the following programming languages, technologies and tools:
 
