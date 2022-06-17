@@ -40,6 +40,28 @@ Do I sound like a good fit for your team?, Contact me here; fawaz.adebayo.ajibol
 
 ## PROJECTS
 
+<!-- <table>
+  <tr>
+    <td rowspan="3">
+      <img src="./projects/fingu.png" alt="metacare" />
+    </td>
+    <td><a href="https://dev.fingu.io/">project link</a></td>
+  </tr>
+  <tr>
+    <td>React, nextjs Typescript</td>
+  </tr>
+  <tr>
+    <td>server side rendered website</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      We believe that investing in the stock market should be democratized, especially for young adults who think that it is reserved for a more mature and wealthier audience.
+      We founded Fingu because we believe that everyone should have the chance to achieve financial freedom.
+</td>
+
+  </tr>
+</table> -->
+
 <table>
   <tr>
     <td rowspan="3">
