@@ -40,7 +40,7 @@ Do I sound like a good fit for your team?, Contact me here; fawaz.adebayo.ajibol
 
 ## PROJECTS
 
-<!-- <table>
+<table>
   <tr>
     <td rowspan="3">
       <img src="./projects/fingu.png" alt="metacare" />
@@ -60,7 +60,7 @@ Do I sound like a good fit for your team?, Contact me here; fawaz.adebayo.ajibol
 </td>
 
   </tr>
-</table> -->
+</table>
 
 <table>
   <tr>
@@ -200,7 +200,7 @@ Do I sound like a good fit for your team?, Contact me here; fawaz.adebayo.ajibol
   </tr>
 </table>
 
-<table>
+<!-- <table>
   <tr>
     <td rowspan="3">
       <img src="./projects/yahfrica.png" alt="yahfrica" />
@@ -221,7 +221,7 @@ Do I sound like a good fit for your team?, Contact me here; fawaz.adebayo.ajibol
       continent and its peoples globally.
     </td>
   </tr>
-</table>
+</table> -->
 
 ## CONTACT
 
