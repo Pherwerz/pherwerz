@@ -45,7 +45,7 @@ Do I sound like a good fit for your team?, Contact me here; fawaz.adebayo.ajibol
     <td rowspan="3">
       <img src="./projects/fingu.png" alt="metacare" />
     </td>
-    <td><a href="https://dev.fingu.io/">project link</a></td>
+    <td><a href="https://fingu.io/">project link</a></td>
   </tr>
   <tr>
     <td>React, nextjs Typescript</td>
