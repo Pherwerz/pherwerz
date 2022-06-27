@@ -36,7 +36,7 @@ In my 4 years of experience in web development and I have built knowledge in tec
 
 My other areas of interest are mobile app development and Web 3. I am an excellent team player, communicator, and problem solver with a desire to always exceed expected results. I am willing, open, and ready to accept opportunities tailored to providing an ever progressive career experience and global exposure with both challenging and rewarding roles. When I am not interacting with codes, I enjoy playing games and listening to good music.
 
-Do I sound like a good fit for your team?, Contact me here; fawaz.adebayo.ajibola@gmail.com adebayo.fawaz@yahoo.com
+Do I sound like a good fit for your team?, Contact me here; fawaz.adebayo.ajibola@gmail.com
 
 ## PROJECTS
 
