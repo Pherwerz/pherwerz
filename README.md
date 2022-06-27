@@ -57,7 +57,7 @@ Do I sound like a good fit for your team?, Contact me here; fawaz.adebayo.ajibol
     <td colspan="2">
       We believe that investing in the stock market should be democratized, especially for young adults who think that it is reserved for a more mature and wealthier audience.
       We founded Fingu because we believe that everyone should have the chance to achieve financial freedom.
-      created in colaboration with @TGod-Ajayi
+      created in colaboration with <a href="https://github.com/TGod-Ajayi" target="_blank">@TGod-Ajayi</a>
 </td>
 
   </tr>
