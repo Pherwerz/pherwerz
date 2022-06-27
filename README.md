@@ -68,7 +68,7 @@ Do I sound like a good fit for your team?, Contact me here; fawaz.adebayo.ajibol
     <td rowspan="3">
       <img src="./projects/drugstore.png" alt="drugstore" />
     </td>
-    <td><a href="https://dev.drugstore.ng/">project link</a></td>
+    <td><a href="https://drugstore.ng/">project link</a></td>
   </tr>
   <tr>
     <td>nuxjs</td>
