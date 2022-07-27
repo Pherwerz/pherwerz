@@ -43,7 +43,7 @@ Do I sound like a good fit for your team?, Contact me here; fawaz.adebayo.ajibol
 <table>
   <tr>
     <td rowspan="3">
-      <img src="./projects/fingu.png" alt="metacare" />
+      <img src="./projects/fingu.png" alt="fingu" />
     </td>
     <td><a href="https://fingu.io/">project link</a></td>
   </tr>
