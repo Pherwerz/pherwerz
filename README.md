@@ -10,6 +10,8 @@ I am Fawaz, a full-stack web developer with a passion for solving real-world pro
 
 In my 4 years of experience in web development and I have built knowledge in technical documentation, working in Agile environments, core system development, algorithms and data structures. I have a Diploma in Web Design from Global Techs and other certifications in Web development, JavaScript and Nodejs. I enjoy building user experience and interfaces, making sure that these interfaces are properly implemented with frontend languages and excellent backend servers in real-time. I am highly skilled in the following programming languages, technologies and tools:
 
+[![Pherwerz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pherwerz)](https://github.com/Pherwerz/github-readme-stats)
+
 - Programming languages
 
   - JavaScript
