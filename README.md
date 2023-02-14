@@ -235,6 +235,7 @@ Do I sound like a good fit for your team?, Contact me here; fawaz.adebayo.ajibol
 | twitter         | [twitter](https://twitter.com/Pherwerzz)                         |
 | linkedin        | [linkedin](https://www.linkedin.com/in/fawaz-adebayo-5b83471b1/) |
 
+[![Pherwerz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pherwerz)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pherwerz&show_icons=true) 
 
