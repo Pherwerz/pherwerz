@@ -237,6 +237,8 @@ Do I sound like a good fit for your team?, Contact me here; fawaz.adebayo.ajibol
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pherwerz)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pherwerz) 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pherwerz&show_icons=true) 
 
 ![Profile views](https://gpvc.arturio.dev/Pherwerz)
