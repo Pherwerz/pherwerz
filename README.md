@@ -1,6 +1,6 @@
 # ADEBAYO FAWAZ AJIBOLA
 
-![Portfolio](https://pherwerz.dev)
+[Portfolio](https://pherwerz.dev)
 
 
 
